@@ -5,7 +5,6 @@
 💡 &nbsp;Febrianti Ina  <3\
 🎓 &nbsp;I learn what I find useful.\
 💬 &nbsp;I'm can speak a little English and Indonesian.\
-✉️ &nbsp;You can shoot me an email at natsuya.ren@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -13,7 +12,7 @@
 ### 🛠 &nbsp;learn
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=flask)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -27,5 +26,7 @@
 
 ### ⚙️ You Can Contact Me On
 ![Facebook](https://img.shields.io/badge/-ardho%20ainullah-05122A?style=flat&logo=facebook)
+![Instagram](https://img.shields.io/badge/-@ardho.ainullah-05122A?style=flat&logo=Instagram)
+![Youtube](https://img.shields.io/badge/-HnvDie-05122A?style=flat&logo=Youtube)
 ![Gmail](https://img.shields.io/badge/-natsuya.ren@gmail-05122A?style=flat&logo=gmail)
 ![Whatsapp](https://img.shields.io/badge/-083135473822-05122A?style=flat&logo=whatsapp)
