@@ -1,18 +1,16 @@
-<h2>Hey there! I'm <b>Ronaldo Kereh</b></h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<h2>Hey there! I'm <b>Ahmad Ardho Ainullah</b></h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop website.\
-🎓 &nbsp;I'm currently studying Computer Science at the SMK Kristen 2 Tomohon.\
-💬 &nbsp;I'm can speak a little Japanese and English.\
-✉️ &nbsp;You can shoot me an email at kerehchannel@gmail.com! I'll try to respond as soon as I can.\
+💡 &nbsp;Febrianti Ina  <3\
+🎓 &nbsp;I learn what I find useful.\
+💬 &nbsp;I'm can speak a little English and Indonesian.\
+✉️ &nbsp;You can shoot me an email at natsuya.ren@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;learn
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
@@ -21,13 +19,13 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <center>
-<a href="https://github.com/nolepeopleh">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kereh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kereh&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/nolepeople">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nolepeople&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nolepeople&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </center>
 
 ### ⚙️ You Can Contact Me On
-![Facebook](https://img.shields.io/badge/-muhasabah.muhasabah.52438-05122A?style=flat&logo=facebook)
+![Facebook](https://img.shields.io/badge/-ardho ainullah-05122A?style=flat&logo=facebook)
 ![Gmail](https://img.shields.io/badge/-natsuya.ren@gmail-05122A?style=flat&logo=gmail)
 ![Whatsapp](https://img.shields.io/badge/-083135473822-05122A?style=flat&logo=whatsapp)
