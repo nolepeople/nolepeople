@@ -1,6 +1,7 @@
 ## <img src="https://cdn130.picsart.com/235791987029202.gif" width="29px"> Hello There, I'm Ardho Ainillah<img src="https://cdn130.picsart.com/235791987029202.gif" width="29px">
 
-<iframe src='https://gfycat.com/ifr/AptTallKentrosaurus' frameborder='0' scrolling='no' allowfullscreen width='640' height='404'></iframe><p> <a href="https://gfycat.com/apttallkentrosaurus-anime-music-video-funimation-tomoyaamv">via Gfycat</a></p>
+<img src='https://gfycat.com/ifr/AptTallKentrosaurus' width='640' height='404'>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Febrianti Ina  <3\
