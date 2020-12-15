@@ -26,6 +26,6 @@
 </center>
 
 ### ⚙️ You Can Contact Me On
-![Facebook](https://img.shields.io/badge/-ardho ainullah-05122A?style=flat&logo=facebook)
+![Facebook](https://img.shields.io/badge/-ardho%20ainullah-05122A?style=flat&logo=facebook)
 ![Gmail](https://img.shields.io/badge/-natsuya.ren@gmail-05122A?style=flat&logo=gmail)
 ![Whatsapp](https://img.shields.io/badge/-083135473822-05122A?style=flat&logo=whatsapp)
