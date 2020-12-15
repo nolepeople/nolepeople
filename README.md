@@ -4,7 +4,7 @@
 
 💡 &nbsp;Febrianti Ina  <3\
 🎓 &nbsp;I learn what I find useful.\
-💬 &nbsp;I'm can speak a little English and Indonesian.\
+💬 &nbsp;I can speak Indonesian and some English
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -12,7 +12,7 @@
 ### 🛠 &nbsp;learn
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=flask)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
