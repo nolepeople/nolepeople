@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Febrianti Ina  <3\
+💡 &nbsp;hi\
 🎓 &nbsp;I learn what I find useful.\
 💬 &nbsp;I can speak Indonesian and some English
 
