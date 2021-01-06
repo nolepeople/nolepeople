@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;hi\
+💡 &nbsp;give me pc :")\
 🎓 &nbsp;I learn what I find useful.\
 💬 &nbsp;I can speak Indonesian and some English
 
